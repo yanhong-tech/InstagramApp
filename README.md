@@ -38,9 +38,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+## Notes        
 
-
+&nbsp;     
+&nbsp;       
+&nbsp;  
 
 
 # Project 3 - *Instagram*
