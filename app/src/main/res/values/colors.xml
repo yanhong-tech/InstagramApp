@@ -10,4 +10,5 @@
     <color name="blue">#2e7fc9</color>>
     <color name="green">#52c92e</color>>
     <color name="red">#de1d10</color>>
+    <color name="colorPrimary">#FF0000</color>
 </resources>
